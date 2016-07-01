@@ -1,0 +1,8 @@
+name: WhenISwear
+author: Sand
+version: 1
+description: Helps preventing people to swear.
+main: me.Sand.WhenISwear.WhenISwear
+commands:
+  wis:
+    description: Displays information.
